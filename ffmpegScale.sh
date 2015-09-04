@@ -1,4 +1,5 @@
 #!/bin/sh
+# author: @erikccoder
 
 usage ()
 {
