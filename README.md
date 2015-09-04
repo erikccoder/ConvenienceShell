@@ -1,2 +1,2 @@
-# ConvenienceShell
+# EasyShell
 Useful shell scripts
