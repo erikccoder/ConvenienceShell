@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+#original: https://gist.github.com/UniIsland/3346170
+
 
 """Simple HTTP Server With Upload.
 This module builds on BaseHTTPServer by implementing the standard GET
