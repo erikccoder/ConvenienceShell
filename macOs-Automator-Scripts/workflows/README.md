@@ -1,1 +1,1 @@
-## Copy files into ~/Library/Services/
+## Copy *.workflow files into ~/Library/Services/
