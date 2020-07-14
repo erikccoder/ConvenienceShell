@@ -6,10 +6,10 @@ function run(input, parameters)
 	}	
 	const selectedText = input.map(function(i) {
 		if(i === i.toUpperCase()){
-			return i.toLowerCase()
+			return capitalize(i)
 		}
 		else if(i === i.toLowerCase()){
-			return capitalize(i)
+			return i.toLowerCase()
 		}
 		else {
 			return i.toUpperCase()
